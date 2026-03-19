@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleAppMatrix2D/ConsoleAppMatrix2D.csproj" />
+  <Project Path="Matrix2DLib/Matrix2DLib.csproj" />
+  <Project Path="Matrix2DTest/Matrix2DTest.csproj" />
+</Solution>
