@@ -70,6 +70,6 @@
             new Matrix2D(-m.a, -m.b, -m.c, -m.d);
         #endregion
 
-        // wymyslec testy na sprawdzenie Equals
+       
     }
 }
