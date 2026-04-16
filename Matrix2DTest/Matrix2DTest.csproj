@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Matrix2DLib\Matrix2DLib.csproj" />
+    <ProjectReference Include="..\ConsoleAppMatrix2D\ConsoleAppMatrix2D.csproj" />
   </ItemGroup>
 
   <ItemGroup>

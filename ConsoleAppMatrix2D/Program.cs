@@ -44,3 +44,5 @@ Console.WriteLine("\n8. Parsowanie ze string do Matrix2D:");
 string text = "[[10, 20], [30, 40]]";
 var parsed = Matrix2D.Parse(text);
 Console.WriteLine($"Tekst '{text}' sparsowany jako macierz: {parsed}");
+
+public partial class Program { }
